@@ -1,4 +1,4 @@
-# Assignment: Localization with Odometry and Landmark-Based Sensor Models
+# Homework 1 - EKF and Particle Filter for Localization
 
 This assignment focuses on implementing a localization system using odometry-based motion models and landmark-based sensor models. You will be required to complete both writing and programming tasks. 
 The main document for this assignment can be found [here](https://courses.cs.washington.edu/courses/cse571/23sp/homeworks/CSE571_HW1.pdf).
