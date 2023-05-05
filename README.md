@@ -18,7 +18,7 @@ The programming portion of this assignment consists of three parts:
 
 ### 1. Implement Extended Kalman Filter (EKF)
 
-Refer to the [Lecture 04: EKF](https://courses.cs.washington.edu/courses/cse571/23sp/slides/L04/Lecture04_EKF_UKF.pdf) for implementing the Extended Kalman Filter algorithm.
+Refer to the [Lecture 04: EKF](https://courses.cs.washington.edu/courses/cse571/23sp/slides/L04/Lecture04_EKF_UKF.pdf) and [Lecture 06: PF & Sensor Motion](https://courses.cs.washington.edu/courses/cse571/23sp/slides/L06/Lecture06_SensorMotion_Updated.pdf) for implementing the Extended Kalman Filter algorithm.
 
 ### 2. Implement Particle Filter
 
